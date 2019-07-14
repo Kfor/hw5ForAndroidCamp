@@ -1,0 +1,177 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Kfor\Desktop\android\Chapter-5-master\Practice\demo\src\main\AndroidManifest.xml:1:1-28:12
+INJECTED from C:\Users\Kfor\Desktop\android\Chapter-5-master\Practice\demo\src\main\AndroidManifest.xml:1:1-28:12
+INJECTED from C:\Users\Kfor\Desktop\android\Chapter-5-master\Practice\demo\src\main\AndroidManifest.xml:1:1-28:12
+INJECTED from C:\Users\Kfor\Desktop\android\Chapter-5-master\Practice\demo\src\main\AndroidManifest.xml:1:1-28:12
+MERGED from [:lib] C:\Users\Kfor\Desktop\android\Chapter-5-master\Practice\lib\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Kfor\.gradle\caches\transforms-2\files-2.1\e8459818bcd1eb81948986085761ec39\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Kfor\.gradle\caches\transforms-2\files-2.1\b26e204f63266f189e353f9a92f14c17\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Kfor\.gradle\caches\transforms-2\files-2.1\0794e193e8ec70a406a990bd950c48bc\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Kfor\.gradle\caches\transforms-2\files-2.1\aafa119ca82d5e4794dbf37912ad5042\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Kfor\.gradle\caches\transforms-2\files-2.1\562a150354bba0e3de6e2a02a336b698\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Kfor\.gradle\caches\transforms-2\files-2.1\59a01b6fb2312835da182c321915085a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Kfor\.gradle\caches\transforms-2\files-2.1\bc4e7e32212da97f926e24f5c2450edf\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Kfor\.gradle\caches\transforms-2\files-2.1\5154766ed6572f54c2f3414d2b0813c4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Kfor\.gradle\caches\transforms-2\files-2.1\d287cf8d85ef7f08ec3f1c43aad159ef\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Kfor\.gradle\caches\transforms-2\files-2.1\3a2adae10d1760ee51b62a220a1b0d9a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Kfor\.gradle\caches\transforms-2\files-2.1\8de3061aabc1c9f178cb0ef0695c61ec\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Kfor\.gradle\caches\transforms-2\files-2.1\81ccbbe88d88a828b77506c0950117f5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Kfor\.gradle\caches\transforms-2\files-2.1\af6efecaf8e5c962a15bf6ed129f708e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Kfor\.gradle\caches\transforms-2\files-2.1\403c97f71ca234127bc19551d620e578\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Kfor\.gradle\caches\transforms-2\files-2.1\c7d532f092341f88ba2007aa528af536\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Kfor\.gradle\caches\transforms-2\files-2.1\d958875780dc02bffe25c13d25b09106\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Kfor\.gradle\caches\transforms-2\files-2.1\25c163493c3a0f2940ba4af477dfad72\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Kfor\.gradle\caches\transforms-2\files-2.1\6582876c5a1e6efd0b8bc6c636366cbe\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Kfor\.gradle\caches\transforms-2\files-2.1\96100587cf9d5fe4ee505689b6334232\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Kfor\.gradle\caches\transforms-2\files-2.1\677834d1f17dd7f7d755de9a756d9f11\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Kfor\.gradle\caches\transforms-2\files-2.1\35c20a2489dee0ba0097759bf4078217\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\Kfor\.gradle\caches\transforms-2\files-2.1\2ba4c73a1059668ccf7b97089f38e8b3\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Kfor\.gradle\caches\transforms-2\files-2.1\333ee848e67d681a35d149dfee763b8f\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Kfor\.gradle\caches\transforms-2\files-2.1\b15f044b90602605fd35072d9103c9c0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Kfor\.gradle\caches\transforms-2\files-2.1\a451d391f257ef9bde7d8b745971a878\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Kfor\.gradle\caches\transforms-2\files-2.1\7fd039402f5a70fa23df545eaf23d5fe\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Kfor\.gradle\caches\transforms-2\files-2.1\251d26a26e4930a909c655e9f84d1afe\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\Kfor\Desktop\android\Chapter-5-master\Practice\demo\src\main\AndroidManifest.xml:1:1-28:12
+INJECTED from C:\Users\Kfor\Desktop\android\Chapter-5-master\Practice\demo\src\main\AndroidManifest.xml:1:1-28:12
+INJECTED from C:\Users\Kfor\Desktop\android\Chapter-5-master\Practice\demo\src\main\AndroidManifest.xml:1:1-28:12
+	package
+		ADDED from C:\Users\Kfor\Desktop\android\Chapter-5-master\Practice\demo\src\main\AndroidManifest.xml:3:5-53
+		INJECTED from C:\Users\Kfor\Desktop\android\Chapter-5-master\Practice\demo\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Kfor\Desktop\android\Chapter-5-master\Practice\demo\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Kfor\Desktop\android\Chapter-5-master\Practice\demo\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Kfor\Desktop\android\Chapter-5-master\Practice\demo\src\main\AndroidManifest.xml:1:1-28:12
+		INJECTED from C:\Users\Kfor\Desktop\android\Chapter-5-master\Practice\demo\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\Kfor\Desktop\android\Chapter-5-master\Practice\demo\src\main\AndroidManifest.xml:2:5-51
+	android:versionCode
+		INJECTED from C:\Users\Kfor\Desktop\android\Chapter-5-master\Practice\demo\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Kfor\Desktop\android\Chapter-5-master\Practice\demo\src\main\AndroidManifest.xml:1:1-28:12
+		INJECTED from C:\Users\Kfor\Desktop\android\Chapter-5-master\Practice\demo\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Kfor\Desktop\android\Chapter-5-master\Practice\demo\src\main\AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Kfor\Desktop\android\Chapter-5-master\Practice\demo\src\main\AndroidManifest.xml:6:5-67
+	android:name
+		ADDED from C:\Users\Kfor\Desktop\android\Chapter-5-master\Practice\demo\src\main\AndroidManifest.xml:6:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\Kfor\Desktop\android\Chapter-5-master\Practice\demo\src\main\AndroidManifest.xml:7:5-78
+	android:name
+		ADDED from C:\Users\Kfor\Desktop\android\Chapter-5-master\Practice\demo\src\main\AndroidManifest.xml:7:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from C:\Users\Kfor\Desktop\android\Chapter-5-master\Practice\demo\src\main\AndroidManifest.xml:8:5-75
+	android:name
+		ADDED from C:\Users\Kfor\Desktop\android\Chapter-5-master\Practice\demo\src\main\AndroidManifest.xml:8:22-73
+application
+ADDED from C:\Users\Kfor\Desktop\android\Chapter-5-master\Practice\demo\src\main\AndroidManifest.xml:10:5-27:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Kfor\.gradle\caches\transforms-2\files-2.1\b26e204f63266f189e353f9a92f14c17\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Kfor\.gradle\caches\transforms-2\files-2.1\b26e204f63266f189e353f9a92f14c17\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Kfor\.gradle\caches\transforms-2\files-2.1\d958875780dc02bffe25c13d25b09106\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Kfor\.gradle\caches\transforms-2\files-2.1\d958875780dc02bffe25c13d25b09106\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Kfor\.gradle\caches\transforms-2\files-2.1\25c163493c3a0f2940ba4af477dfad72\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Kfor\.gradle\caches\transforms-2\files-2.1\25c163493c3a0f2940ba4af477dfad72\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\Kfor\.gradle\caches\transforms-2\files-2.1\d958875780dc02bffe25c13d25b09106\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from C:\Users\Kfor\Desktop\android\Chapter-5-master\Practice\demo\src\main\AndroidManifest.xml:15:9-35
+	android:label
+		ADDED from C:\Users\Kfor\Desktop\android\Chapter-5-master\Practice\demo\src\main\AndroidManifest.xml:13:9-41
+	tools:ignore
+		ADDED from C:\Users\Kfor\Desktop\android\Chapter-5-master\Practice\demo\src\main\AndroidManifest.xml:18:9-48
+	android:roundIcon
+		ADDED from C:\Users\Kfor\Desktop\android\Chapter-5-master\Practice\demo\src\main\AndroidManifest.xml:14:9-54
+	tools:targetApi
+		ADDED from C:\Users\Kfor\Desktop\android\Chapter-5-master\Practice\demo\src\main\AndroidManifest.xml:19:9-28
+	android:icon
+		ADDED from C:\Users\Kfor\Desktop\android\Chapter-5-master\Practice\demo\src\main\AndroidManifest.xml:12:9-43
+	android:allowBackup
+		ADDED from C:\Users\Kfor\Desktop\android\Chapter-5-master\Practice\demo\src\main\AndroidManifest.xml:11:9-35
+	android:theme
+		ADDED from C:\Users\Kfor\Desktop\android\Chapter-5-master\Practice\demo\src\main\AndroidManifest.xml:16:9-40
+	android:usesCleartextTraffic
+		ADDED from C:\Users\Kfor\Desktop\android\Chapter-5-master\Practice\demo\src\main\AndroidManifest.xml:17:9-44
+activity#com.bytedance.androidcamp.network.demo.MainActivity
+ADDED from C:\Users\Kfor\Desktop\android\Chapter-5-master\Practice\demo\src\main\AndroidManifest.xml:20:9-26:20
+	android:name
+		ADDED from C:\Users\Kfor\Desktop\android\Chapter-5-master\Practice\demo\src\main\AndroidManifest.xml:20:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Kfor\Desktop\android\Chapter-5-master\Practice\demo\src\main\AndroidManifest.xml:21:13-25:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Kfor\Desktop\android\Chapter-5-master\Practice\demo\src\main\AndroidManifest.xml:22:17-68
+	android:name
+		ADDED from C:\Users\Kfor\Desktop\android\Chapter-5-master\Practice\demo\src\main\AndroidManifest.xml:22:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Kfor\Desktop\android\Chapter-5-master\Practice\demo\src\main\AndroidManifest.xml:24:17-76
+	android:name
+		ADDED from C:\Users\Kfor\Desktop\android\Chapter-5-master\Practice\demo\src\main\AndroidManifest.xml:24:27-74
+uses-sdk
+INJECTED from C:\Users\Kfor\Desktop\android\Chapter-5-master\Practice\demo\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Kfor\Desktop\android\Chapter-5-master\Practice\demo\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Kfor\Desktop\android\Chapter-5-master\Practice\demo\src\main\AndroidManifest.xml
+MERGED from [:lib] C:\Users\Kfor\Desktop\android\Chapter-5-master\Practice\lib\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:lib] C:\Users\Kfor\Desktop\android\Chapter-5-master\Practice\lib\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Kfor\.gradle\caches\transforms-2\files-2.1\e8459818bcd1eb81948986085761ec39\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Kfor\.gradle\caches\transforms-2\files-2.1\e8459818bcd1eb81948986085761ec39\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Kfor\.gradle\caches\transforms-2\files-2.1\b26e204f63266f189e353f9a92f14c17\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Kfor\.gradle\caches\transforms-2\files-2.1\b26e204f63266f189e353f9a92f14c17\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Kfor\.gradle\caches\transforms-2\files-2.1\0794e193e8ec70a406a990bd950c48bc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Kfor\.gradle\caches\transforms-2\files-2.1\0794e193e8ec70a406a990bd950c48bc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Kfor\.gradle\caches\transforms-2\files-2.1\aafa119ca82d5e4794dbf37912ad5042\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Kfor\.gradle\caches\transforms-2\files-2.1\aafa119ca82d5e4794dbf37912ad5042\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Kfor\.gradle\caches\transforms-2\files-2.1\562a150354bba0e3de6e2a02a336b698\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Kfor\.gradle\caches\transforms-2\files-2.1\562a150354bba0e3de6e2a02a336b698\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Kfor\.gradle\caches\transforms-2\files-2.1\59a01b6fb2312835da182c321915085a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Kfor\.gradle\caches\transforms-2\files-2.1\59a01b6fb2312835da182c321915085a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Kfor\.gradle\caches\transforms-2\files-2.1\bc4e7e32212da97f926e24f5c2450edf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Kfor\.gradle\caches\transforms-2\files-2.1\bc4e7e32212da97f926e24f5c2450edf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Kfor\.gradle\caches\transforms-2\files-2.1\5154766ed6572f54c2f3414d2b0813c4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Kfor\.gradle\caches\transforms-2\files-2.1\5154766ed6572f54c2f3414d2b0813c4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Kfor\.gradle\caches\transforms-2\files-2.1\d287cf8d85ef7f08ec3f1c43aad159ef\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Kfor\.gradle\caches\transforms-2\files-2.1\d287cf8d85ef7f08ec3f1c43aad159ef\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Kfor\.gradle\caches\transforms-2\files-2.1\3a2adae10d1760ee51b62a220a1b0d9a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Kfor\.gradle\caches\transforms-2\files-2.1\3a2adae10d1760ee51b62a220a1b0d9a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Kfor\.gradle\caches\transforms-2\files-2.1\8de3061aabc1c9f178cb0ef0695c61ec\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Kfor\.gradle\caches\transforms-2\files-2.1\8de3061aabc1c9f178cb0ef0695c61ec\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Kfor\.gradle\caches\transforms-2\files-2.1\81ccbbe88d88a828b77506c0950117f5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Kfor\.gradle\caches\transforms-2\files-2.1\81ccbbe88d88a828b77506c0950117f5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Kfor\.gradle\caches\transforms-2\files-2.1\af6efecaf8e5c962a15bf6ed129f708e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Kfor\.gradle\caches\transforms-2\files-2.1\af6efecaf8e5c962a15bf6ed129f708e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Kfor\.gradle\caches\transforms-2\files-2.1\403c97f71ca234127bc19551d620e578\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Kfor\.gradle\caches\transforms-2\files-2.1\403c97f71ca234127bc19551d620e578\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Kfor\.gradle\caches\transforms-2\files-2.1\c7d532f092341f88ba2007aa528af536\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Kfor\.gradle\caches\transforms-2\files-2.1\c7d532f092341f88ba2007aa528af536\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Kfor\.gradle\caches\transforms-2\files-2.1\d958875780dc02bffe25c13d25b09106\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Kfor\.gradle\caches\transforms-2\files-2.1\d958875780dc02bffe25c13d25b09106\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Kfor\.gradle\caches\transforms-2\files-2.1\25c163493c3a0f2940ba4af477dfad72\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Kfor\.gradle\caches\transforms-2\files-2.1\25c163493c3a0f2940ba4af477dfad72\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Kfor\.gradle\caches\transforms-2\files-2.1\6582876c5a1e6efd0b8bc6c636366cbe\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Kfor\.gradle\caches\transforms-2\files-2.1\6582876c5a1e6efd0b8bc6c636366cbe\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Kfor\.gradle\caches\transforms-2\files-2.1\96100587cf9d5fe4ee505689b6334232\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Kfor\.gradle\caches\transforms-2\files-2.1\96100587cf9d5fe4ee505689b6334232\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Kfor\.gradle\caches\transforms-2\files-2.1\677834d1f17dd7f7d755de9a756d9f11\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Kfor\.gradle\caches\transforms-2\files-2.1\677834d1f17dd7f7d755de9a756d9f11\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Kfor\.gradle\caches\transforms-2\files-2.1\35c20a2489dee0ba0097759bf4078217\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Kfor\.gradle\caches\transforms-2\files-2.1\35c20a2489dee0ba0097759bf4078217\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Kfor\.gradle\caches\transforms-2\files-2.1\2ba4c73a1059668ccf7b97089f38e8b3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Kfor\.gradle\caches\transforms-2\files-2.1\2ba4c73a1059668ccf7b97089f38e8b3\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Kfor\.gradle\caches\transforms-2\files-2.1\333ee848e67d681a35d149dfee763b8f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Kfor\.gradle\caches\transforms-2\files-2.1\333ee848e67d681a35d149dfee763b8f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Kfor\.gradle\caches\transforms-2\files-2.1\b15f044b90602605fd35072d9103c9c0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Kfor\.gradle\caches\transforms-2\files-2.1\b15f044b90602605fd35072d9103c9c0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Kfor\.gradle\caches\transforms-2\files-2.1\a451d391f257ef9bde7d8b745971a878\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Kfor\.gradle\caches\transforms-2\files-2.1\a451d391f257ef9bde7d8b745971a878\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Kfor\.gradle\caches\transforms-2\files-2.1\7fd039402f5a70fa23df545eaf23d5fe\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Kfor\.gradle\caches\transforms-2\files-2.1\7fd039402f5a70fa23df545eaf23d5fe\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Kfor\.gradle\caches\transforms-2\files-2.1\251d26a26e4930a909c655e9f84d1afe\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Kfor\.gradle\caches\transforms-2\files-2.1\251d26a26e4930a909c655e9f84d1afe\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\Kfor\Desktop\android\Chapter-5-master\Practice\demo\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Kfor\Desktop\android\Chapter-5-master\Practice\demo\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Kfor\Desktop\android\Chapter-5-master\Practice\demo\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Kfor\Desktop\android\Chapter-5-master\Practice\demo\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Kfor\Desktop\android\Chapter-5-master\Practice\demo\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Kfor\Desktop\android\Chapter-5-master\Practice\demo\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Kfor\Desktop\android\Chapter-5-master\Practice\demo\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Kfor\Desktop\android\Chapter-5-master\Practice\demo\src\main\AndroidManifest.xml
